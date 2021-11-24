@@ -1,0 +1,14 @@
+.buttons {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+    display: flex;
+}
+
+button {
+    margin: 3rem;
+    padding: 5rem;
+    display: inline-block;
+    font-size: 4rem;
+}
